@@ -1,0 +1,19 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navbar a {
+    float: Left;
+    text-decoration: none;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 220px;
+    
+    font-size: 20px;
+  }
+  
+  .navbar a.selected {
+    background-color: #9b9778;
+    color: white;
+  }
